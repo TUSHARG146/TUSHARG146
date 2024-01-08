@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tushar146gpt@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tushar146gpt@gmail.com)](mailto:tushar146gpt@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tusharrg/)](https://www.linkedin.com/in/tusharrg/)
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/mukulrajpoot262610/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/tushar146gpt/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=mukulrajpoot262610&color=red&style=flat)](https://komarev.com/ghpvc/?username=mukulrajpoot262610)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
