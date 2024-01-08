@@ -23,7 +23,7 @@
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-|<img align=center alt="tusharg146's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulrajpoot262610" />
+|<img align=center alt="tusharg146's streak" src="https://github-readme-stats.vercel.app/api?username=TUSHARG146&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUSHARG146" />
 |---|---|
 
 | 💻 **Category** | 🚀 **Skills** |
